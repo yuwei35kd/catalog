@@ -8,4 +8,4 @@
 - [spring-clound-sso spring cloud单点登录demo](https://github.com/yuwei35kd/spring-clound-sso)
 - [vue-spring-boot-bad spring boot整合vue的坏方案](https://github.com/yuwei35kd/vue-spring-boot-bad)
 - [vue-spring-boot spring boot整合vue合理方案](https://github.com/yuwei35kd/vue-spring-boot)
-
+- [webservice-learn webservice学习demo](https://github.com/yuwei35kd/webservice-learn)
